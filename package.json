@@ -1,11 +1,15 @@
 {
   "name": "webpark",
   "displayName": "webpark",
-  "description": "\"webpark is a vibrant and modern color theme designed for enhanced coding experience. With a carefully curated palette, it provides a visually pleasing environment for coding in Visual Studio Code. Created by Aman.\"",
-  "version": "0.0.1",
+  "description": "webpark is a vibrant and modern color theme designed for enhanced coding experience.",
+  "version": "0.0.2",
+  "publisher": "amankirmara",  
   "engines": {
     "vscode": "^1.85.0"
   },
+  "icon": "logo.png",
+  "repository": "https://github.com/amanjanaagal/webpark.git",
+
   "categories": [
     "Themes"
   ],

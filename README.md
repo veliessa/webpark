@@ -25,11 +25,11 @@ Activate the Webpark theme by following these steps:
 
 ## Screenshots
 
-![Webpark Theme Preview](./screenshots/preview.png)
+![Webpark Theme Preview](./images/preview.png)
 
 ## Contributing
 
-If you find any issues or have suggestions for improvements, feel free to open an [issue](https://github.com/your-username/webpark-theme/issues) or submit a [pull request](https://github.com/your-username/webpark-theme/pulls) on GitHub.
+If you find any issues or have suggestions for improvements, feel free to open an [issue](https://github.com/amanjanaagal/webpark.git) or submit a [pull request](https://github.com/amanjanaagal/webpark.git) on GitHub.
 
 ## License
 
