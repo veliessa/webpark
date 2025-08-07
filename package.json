@@ -1,8 +1,8 @@
 {
-  "name": "webpark",
-  "displayName": "Webpark Themes",
+  "name": "webpark-themes",
+  "displayName": "Webpark",
   "description": "A comprehensive collection of 10 vibrant and modern color themes designed for enhanced coding experience. Includes multiple variants: Primary, Dark, Light, Dimmed, High Contrast, Monokai, Dracula, Nord, One Dark, and Pastel.",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "publisher": "veliessa",
   "license": "MIT",
   "engines": {
