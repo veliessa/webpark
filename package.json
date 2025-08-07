@@ -1,8 +1,8 @@
 {
   "name": "webpark",
-  "displayName": "webpark",
-  "description": "webpark is a vibrant and modern color theme designed for enhanced coding experience.",
-  "version": "0.0.2",
+  "displayName": "Webpark Themes",
+  "description": "A comprehensive collection of 10 vibrant and modern color themes designed for enhanced coding experience. Includes multiple variants: Primary, Dark, Light, Dimmed, High Contrast, Monokai, Dracula, Nord, One Dark, and Pastel.",
+  "version": "0.0.4",
   "publisher": "amankirmara",  
   "engines": {
     "vscode": "^1.85.0"
@@ -13,12 +13,74 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "color-theme",
+    "webpark",
+    "multi-theme",
+    "monokai",
+    "dracula",
+    "nord",
+    "one-dark",
+    "pastel"
+  ],
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "webpark",
+        "label": "Webpark Primary",
         "uiTheme": "vs-dark",
-        "path": "./themes/webpark-color-theme.json"
+        "path": "./themes/webpark-primary-color-theme.json"
+      },
+      {
+        "label": "Webpark Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webpark-dark-color-theme.json"
+      },
+      {
+        "label": "Webpark Light",
+        "uiTheme": "vs",
+        "path": "./themes/webpark-light-color-theme.json"
+      },
+      {
+        "label": "Webpark Dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webpark-dimmed-color-theme.json"
+      },
+      {
+        "label": "Webpark High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/webpark-high-contrast-color-theme.json"
+      },
+      {
+        "label": "Webpark Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webpark-monokai-color-theme.json"
+      },
+      {
+        "label": "Webpark Dracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webpark-dracula-color-theme.json"
+      },
+      {
+        "label": "Webpark Nord",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webpark-nord-color-theme.json"
+      },
+      {
+        "label": "Webpark One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webpark-one-dark-color-theme.json"
+      },
+      {
+        "label": "Webpark Pastel",
+        "uiTheme": "vs",
+        "path": "./themes/webpark-pastel-color-theme.json"
       }
     ]
   }
