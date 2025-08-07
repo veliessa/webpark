@@ -1,4 +1,16 @@
-# Webpark Themes
+<div align="center">
+  <h1>Webpark Themes</h1>
+  <p>A collection of 10 beautiful and professional color themes for Visual Studio Code</p>
+  
+  [![Version](https://img.shields.io/visual-studio-marketplace/v/veliessa.webpark?style=for-the-badge&color=blue)](https://marketplace.visualstudio.com/items?itemName=veliessa.webpark)
+  [![Installs](https://img.shields.io/visual-studio-marketplace/i/veliessa.webpark?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=veliessa.webpark)
+  [![Rating](https://img.shields.io/visual-studio-marketplace/r/veliessa.webpark?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=veliessa.webpark)
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+</div>
+
+## 🌟 Overview
+
+Webpark Themes is a collection of 10 carefully crafted color themes for Visual Studio Code, designed to provide both aesthetic appeal and optimal code readability. Whether you prefer dark or light themes, vibrant or subtle colors, Webpark has a theme that will enhance your coding experience.
 
 Welcome to Webpark Themes, a comprehensive collection of 10 vibrant and modern color themes designed for an enhanced coding experience in Visual Studio Code. This extension provides multiple theme variants to suit different preferences and environments. Created by Aman.
 
@@ -71,9 +83,34 @@ Activate any Webpark theme by following these steps:
 ### Quick Theme Switching
 You can also use the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) and type "Preferences: Color Theme" to quickly switch between themes.
 
-## Screenshots
+## Theme Previews
 
-![Webpark Themes Preview](./images/preview.png)
+Here's a preview of all available themes in the Webpark collection:
+
+<div align="center">
+
+| [![Webpark Primary](./images/webpark_primary.png)](./images/webpark_primary.png) | | |
+|:---:|:---:|:---:|
+| **Webpark Primary** | | |
+
+
+| [![Webpark Pastel](./images/webpark_pastel.png)](./images/webpark_pastel.png) | [![Webpark Dark](./images/webpark_dark.png)](./images/webpark_dark.png) | [![Webpark Light](./images/webpark_light.png)](./images/webpark_light.png) |
+|:---:|:---:|:---:|
+| **Webpark Pastel** | **Webpark Dark** | **Webpark Light** |
+
+| [![Webpark Dimmed](./images/webpark_dimmed.png)](./images/webpark_dimmed.png) | [![Webpark High Contrast](./images/webpark_high_contrast.png)](./images/webpark_high_contrast.png) | [![Webpark Monokai](./images/webpark_monokai.png)](./images/webpark_monokai.png) |
+|:---:|:---:|:---:|
+| **Webpark Dimmed** | **Webpark High Contrast** | **Webpark Monokai** |
+
+| [![Webpark Dracula](./images/webpark_dracula.png)](./images/webpark_dracula.png) | [![Webpark Nord](./images/webpark_nord.png)](./images/webpark_nord.png) | [![Webpark One Dark](./images/webpark_one_dark.png)](./images/webpark_one_dark.png) |
+|:---:|:---:|:---:|
+| **Webpark Dracula** | **Webpark Nord** | **Webpark One Dark** |
+
+
+</div>
+
+> ℹ️ Click on any preview to see a larger version.
+
 
 ## Theme Recommendations
 

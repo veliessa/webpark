@@ -31,7 +31,7 @@
 		"titleBar.activeBackground": "#3c3c3c",
 
 		// Panels and Quick Input
-		"panel.background": "#1e1e1e",
+		"panel.background": "#0a0a0a",
 		"quickInput.background": "#3c3c3c",
 		"quickInputTitle.background": "#3c3c3c",
 
@@ -58,7 +58,7 @@
 		"menu.border": "#6a6a6a",
 
 		// Editor Gutter
-		"editorGutter.background": "#1e1e1e",
+		"editorGutter.background": "#000000",
 		"editorGutter.modifiedBackground": "#d7ba7d",
 		"editorGutter.addedBackground": "#6a9955",
 		"editorGutter.deletedBackground": "#f44747",
