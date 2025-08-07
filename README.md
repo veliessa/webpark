@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Webpark Themes</h1>
+  <h1>Webpark</h1>
   <p>A collection of 10 beautiful and professional color themes for Visual Studio Code</p>
   
-  [![Version](https://img.shields.io/visual-studio-marketplace/v/veliessa.webpark?style=for-the-badge&color=blue)](https://marketplace.visualstudio.com/items?itemName=veliessa.webpark)
-  [![Installs](https://img.shields.io/visual-studio-marketplace/i/veliessa.webpark?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=veliessa.webpark)
-  [![Rating](https://img.shields.io/visual-studio-marketplace/r/veliessa.webpark?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=veliessa.webpark)
+  [![Version](https://img.shields.io/visual-studio-marketplace/v/veliessa.webpark-themes?style=for-the-badge&color=blue)](https://marketplace.visualstudio.com/items?itemName=veliessa.webpark-themes)
+  [![Installs](https://img.shields.io/visual-studio-marketplace/i/veliessa.webpark-themes?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=veliessa.webpark-themes)
+  [![Rating](https://img.shields.io/visual-studio-marketplace/r/veliessa.webpark-themes?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=veliessa.webpark-themes)
   [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 </div>
 
